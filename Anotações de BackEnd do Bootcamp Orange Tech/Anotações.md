@@ -1,3 +1,3 @@
-# link para download do [git] (https://git-scm.com/downloads)
+# link para download do git:(https://git-scm.com/downloads)
 
 O Git Bash é um terminal extendido para otimizar o uso do Git.
